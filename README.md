@@ -1,3 +1,4 @@
-# RFID_Excel
-Arduino Code for the attendance system with Excel
-https://youtu.be/bd96662Rftg
+The E-Voting Machine Using Arduino Uno Integrated with Fingerprint sensor and RFID Tag
+--------------------------------------------------------
+Introducing the future of secure elections:  The Arduino-powered E-Voting Machine!  This innovative system safeguards your vote with dual-factor authentication, eliminating the vulnerabilities of traditional paper ballots.  Imagine a hassle-free experience where you simply tap your RFID tag and scan your fingerprint.  Our E-Voting Machine, built with Arduino technology, verifies your identity through these two biometric checkpoints before granting access to the secure voting interface.  This eliminates the risk of fraudulent voting and ensures every vote is cast by the rightful owner.  Furthermore, the system operates offline, shielding it from potential hacking attempts.  The Arduino E-Voting Machine - for a democratic process as secure and efficient as your fingerprint!
+--------------------------------------------------------
